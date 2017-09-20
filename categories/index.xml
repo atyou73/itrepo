@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Steam</title>
+    <title>Categories on All about the Test</title>
     <link>https://atyou73.github.io/loadtest/categories/</link>
-    <description>Recent content in Categories on Steam</description>
+    <description>Recent content in Categories on All about the Test</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Released under the MIT license.</copyright>
@@ -14,7 +14,7 @@
     <item>
       <title>Development</title>
       <link>https://atyou73.github.io/loadtest/categories/development/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://atyou73.github.io/loadtest/categories/development/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>Golang</title>
       <link>https://atyou73.github.io/loadtest/categories/golang/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://atyou73.github.io/loadtest/categories/golang/</guid>
       <description></description>

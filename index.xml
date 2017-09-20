@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Steam</title>
+    <title>All about the Test</title>
     <link>https://atyou73.github.io/loadtest/</link>
-    <description>Recent content on Steam</description>
+    <description>Recent content on All about the Test</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Released under the MIT license.</copyright>
@@ -23,9 +23,9 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     </item>
     
     <item>
-      <title>My First Post</title>
+      <title>My first Post </title>
       <link>https://atyou73.github.io/loadtest/post/my-first-post/</link>
-      <pubDate>Thu, 21 Sep 2017 00:40:23 +0900</pubDate>
+      <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://atyou73.github.io/loadtest/post/my-first-post/</guid>
       <description>Welcome</description>
