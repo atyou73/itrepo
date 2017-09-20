@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Golang on All about the Test</title>
+    <title>Golang on 성능테스트</title>
     <link>https://atyou73.github.io/loadtest/categories/golang/</link>
-    <description>Recent content in Golang on All about the Test</description>
+    <description>Recent content in Golang on 성능테스트</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>ko</language>
     <copyright>Released under the MIT license.</copyright>
     <lastBuildDate>Thu, 21 Sep 2017 00:00:00 +0000</lastBuildDate>
     
