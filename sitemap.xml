@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>https://atyou73.github.io/itrepo/post/compare-loadtest-service-1/</loc>
+    <lastmod>2017-09-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://atyou73.github.io/itrepo/about/</loc>
     <lastmod>2015-08-22T00:00:00+00:00</lastmod>
   </url>
@@ -30,6 +35,12 @@
   <url>
     <loc>https://atyou73.github.io/itrepo/post/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atyou73.github.io/itrepo/tags/blazemeter/</loc>
+    <lastmod>2017-09-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -86,6 +97,12 @@
   </url>
   
   <url>
+    <loc>https://atyou73.github.io/itrepo/tags/loader.io/</loc>
+    <lastmod>2017-09-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://atyou73.github.io/itrepo/tags/loadrunner/</loc>
     <lastmod>2017-09-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -112,6 +129,12 @@
   <url>
     <loc>https://atyou73.github.io/itrepo/post/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://atyou73.github.io/itrepo/tags/redline13/</loc>
+    <lastmod>2017-09-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

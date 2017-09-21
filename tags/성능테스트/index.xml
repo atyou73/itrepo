@@ -22,5 +22,19 @@
    SW 기능 특징 비고   JMeter  * java 기반 오픈소스. * GUI/non-GUI Mode 지원. * 분산테스트 지원(URL) * bamboo 지원 (연동방법)  * Thread 기반으로 동시성에 제한이 있음.  * 여러 프로토콜/플러그인 지원 * 로드러너와 많이 비교됨 * jenkins 연동됨.</description>
     </item>
     
+    <item>
+      <title>성능테스트 서비스 비교</title>
+      <link>https://atyou73.github.io/itrepo/post/compare-loadtest-service-1/</link>
+      <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://atyou73.github.io/itrepo/post/compare-loadtest-service-1/</guid>
+      <description>td, th { padding: 8px; } td { background-color: #ffffff; border: 1px solid #dddddd; } th { text-align: center; background-color: #dddddd; border: 1px solid #ffffff; } 
+ 
+ 서비스 기능 특징 비고 
+ RedLine13
+ * AWS(아마존) 기반 성능테스트 서비스 제공 * AWS IAM 계정을 이용한 Agent 설치 
+ * 스팟 인스턴스 활용을 통한 비용 절감 * JMeter, Gatling, Python, PHP 및 NodeJS 지원</description>
+    </item>
+    
   </channel>
 </rss>
