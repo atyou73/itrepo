@@ -1,6 +1,7 @@
-baseurl = "https://example.org/"
-languageCode = "en-us"
-title = "Steam - a minimal theme for Hugo"
+baseurl = "https://atyou73.github.io/loadtest/"
+#baseurl = "/"
+languageCode = "ko"
+title = "Tech Blog"
 theme = "hugo-steam-theme"
 disqusShortname = ""
 
@@ -10,8 +11,8 @@ googleAnalytics = ""
 paginate = 10
 
 [params]
-	title = "Steam"
-	subtitle = "a minimal theme for ~~Ghost~~ Hugo"
+	title = "기술블로그"
+	subtitle = ""
 	copyright = "Released under the MIT license."
 
 	# You can choose between green, orange, red and blue.
@@ -24,7 +25,7 @@ paginate = 10
 
 	# To provide some metadata for search engines and the about section in the footer
 	# feel free to add a few information about you and your website.
-	name = "John Doe"
+	name = "Eunbong Leee"
 	bio = "programmer - blogger - coffee aficionado"
 	description = "Your description of the blog"
 	
