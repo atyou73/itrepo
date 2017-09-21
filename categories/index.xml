@@ -1,31 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on 성능테스트</title>
-    <link>https://atyou73.github.io/loadtest/categories/</link>
-    <description>Recent content in Categories on 성능테스트</description>
+    <title>Categories on 기술블로그</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on 기술블로그</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     <copyright>Released under the MIT license.</copyright>
     
-	<atom:link href="https://atyou73.github.io/loadtest/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Development</title>
-      <link>https://atyou73.github.io/loadtest/categories/development/</link>
+      <link>/categories/development/</link>
       <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://atyou73.github.io/loadtest/categories/development/</guid>
+      <guid>/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>https://atyou73.github.io/loadtest/categories/golang/</link>
+      <link>/categories/golang/</link>
       <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://atyou73.github.io/loadtest/categories/golang/</guid>
+      <guid>/categories/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Loadtest</title>
+      <link>/categories/loadtest/</link>
+      <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/loadtest/</guid>
       <description></description>
     </item>
     

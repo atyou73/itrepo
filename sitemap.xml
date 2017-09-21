@@ -3,97 +3,132 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://atyou73.github.io/loadtest/post/creating-a-new-theme/</loc>
+    <loc>/post/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atyou73.github.io/loadtest/post/my-first-post/</loc>
+    <loc>/post/my-first-post/</loc>
     <lastmod>2017-09-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atyou73.github.io/loadtest/about/</loc>
+    <loc>/post/compare-loadtest-tool-1/</loc>
+    <lastmod>2017-09-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
     <lastmod>2015-08-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atyou73.github.io/loadtest/post/goisforlovers/</loc>
+    <loc>/post/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atyou73.github.io/loadtest/post/hugoisforlovers/</loc>
+    <loc>/post/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atyou73.github.io/loadtest/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://atyou73.github.io/loadtest/tags/development/</loc>
+    <loc>/tags/development/</loc>
     <lastmod>2017-09-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://atyou73.github.io/loadtest/categories/development/</loc>
+    <loc>/categories/development/</loc>
     <lastmod>2017-09-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://atyou73.github.io/loadtest/tags/go/</loc>
+    <loc>/tags/go/</loc>
     <lastmod>2017-09-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://atyou73.github.io/loadtest/tags/golang/</loc>
+    <loc>/tags/golang/</loc>
     <lastmod>2017-09-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://atyou73.github.io/loadtest/categories/golang/</loc>
+    <loc>/categories/golang/</loc>
     <lastmod>2017-09-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://atyou73.github.io/loadtest/tags/hugo/</loc>
+    <loc>/tags/hugo/</loc>
     <lastmod>2017-09-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://atyou73.github.io/loadtest/post/</loc>
+    <loc>/tags/jmeter/</loc>
+    <lastmod>2017-09-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/loadrunner/</loc>
+    <lastmod>2017-09-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/loadtest/</loc>
+    <lastmod>2017-09-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/loadtest/</loc>
+    <lastmod>2017-09-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://atyou73.github.io/loadtest/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2017-09-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://atyou73.github.io/loadtest/tags/templates/</loc>
+    <loc>/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://atyou73.github.io/loadtest/tags/themes/</loc>
+    <loc>/tags/test/</loc>
+    <lastmod>2017-09-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://atyou73.github.io/loadtest/</loc>
+    <loc>/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

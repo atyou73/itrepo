@@ -1,68 +1,104 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on 성능테스트</title>
-    <link>https://atyou73.github.io/loadtest/tags/</link>
-    <description>Recent content in Tags on 성능테스트</description>
+    <title>Tags on 기술블로그</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on 기술블로그</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     <copyright>Released under the MIT license.</copyright>
     <lastBuildDate>Thu, 21 Sep 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://atyou73.github.io/loadtest/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Development</title>
-      <link>https://atyou73.github.io/loadtest/tags/development/</link>
+      <link>/tags/development/</link>
       <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://atyou73.github.io/loadtest/tags/development/</guid>
+      <guid>/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go</title>
-      <link>https://atyou73.github.io/loadtest/tags/go/</link>
+      <link>/tags/go/</link>
       <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://atyou73.github.io/loadtest/tags/go/</guid>
+      <guid>/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>https://atyou73.github.io/loadtest/tags/golang/</link>
+      <link>/tags/golang/</link>
       <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://atyou73.github.io/loadtest/tags/golang/</guid>
+      <guid>/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>https://atyou73.github.io/loadtest/tags/hugo/</link>
+      <link>/tags/hugo/</link>
       <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://atyou73.github.io/loadtest/tags/hugo/</guid>
+      <guid>/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jmeter</title>
+      <link>/tags/jmeter/</link>
+      <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/jmeter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Loadrunner</title>
+      <link>/tags/loadrunner/</link>
+      <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/loadrunner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Loadtest</title>
+      <link>/tags/loadtest/</link>
+      <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/loadtest/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Templates</title>
-      <link>https://atyou73.github.io/loadtest/tags/templates/</link>
+      <link>/tags/templates/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://atyou73.github.io/loadtest/tags/templates/</guid>
+      <guid>/tags/templates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>/tags/test/</link>
+      <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/test/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Themes</title>
-      <link>https://atyou73.github.io/loadtest/tags/themes/</link>
+      <link>/tags/themes/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://atyou73.github.io/loadtest/tags/themes/</guid>
+      <guid>/tags/themes/</guid>
       <description></description>
     </item>
     

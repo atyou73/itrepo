@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Loadtest on 기술블로그</title>
+    <link>/tags/loadtest/</link>
+    <description>Recent content in Loadtest on 기술블로그</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <copyright>Released under the MIT license.</copyright>
+    <lastBuildDate>Thu, 21 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/loadtest/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>성능테스트 도구 비교(오픈소스)</title>
+      <link>/post/compare-loadtest-tool-1/</link>
+      <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/compare-loadtest-tool-1/</guid>
+      <description>td, th { padding: 8px; } td { background-color: #ffffff; border: 1px solid #dddddd; } th { text-align: center; background-color: #dddddd; border: 1px solid #ffffff; } 
+   SW 기능 특징 비고   JMeter  * java 기반 오픈소스. * GUI/non-GUI Mode 지원. * 분산테스트 지원(URL) * bamboo 지원 (연동방법)  * Thread 기반으로 동시성에 제한이 있음.  * 여러 프로토콜/플러그인 지원 * 로드러너와 많이 비교됨 * jenkins 연동됨.</description>
+    </item>
+    
+  </channel>
+</rss>
