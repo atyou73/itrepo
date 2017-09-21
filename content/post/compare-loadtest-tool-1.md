@@ -1,10 +1,12 @@
 +++
 title = "성능테스트 도구 비교(오픈소스)"
 tags = [
+    "성능테스트",
     "loadtest",
     "test",
     "loadrunner",
     "jmeter",
+    "gatling",    "ngrinder",
 ]
 date = "2017-09-21"
 categories = [
